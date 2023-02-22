@@ -10,3 +10,5 @@ This landing page was created for an assignment by The Odin Project.
 - Julia Joppien - Unsplash
 - Goodeats - Unsplash
 - Sahand Babal - Unsplash
+
+# Live Demo: https://n-dett.github.io/odin-landing-page/
