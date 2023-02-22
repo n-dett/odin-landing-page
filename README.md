@@ -11,4 +11,4 @@ This landing page was created for an assignment by The Odin Project.
 - Goodeats - Unsplash
 - Sahand Babal - Unsplash
 
-# Live Demo: https://n-dett.github.io/odin-landing-page/
+### Live Demo: https://n-dett.github.io/odin-landing-page/
