@@ -73,6 +73,7 @@ button {
     max-width: 175px;
     margin-top: 16px;
     font-weight: 700;
+    color: #1f2937;
 }
 
 .hero-text {
@@ -157,22 +158,32 @@ button {
 .cta {
     display: flex;
     padding: 50px;
+    justify-content: center;
+    align-items: center;
     
 }
 
 .cta-container {
     display: flex;
-    background-color: #3882f6;
-    border-radius: 15px;
-    flex-direction: column;
+    background-color: #b25e10;
+    border-radius: 10px;
+    padding: 40px 50px;
+    align-items: center;
+    justify-content: space-between;
+    width: 900px;
 }
 
 .cta-text {
     display: flex;
     flex-direction: column;
+    justify-content: center;
 }
 
 .cta-heading {
+    color:#F9FAF8;
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 6px;
 
 }
 
@@ -181,4 +192,9 @@ button {
     background-color: #1f2937;
     color: #E5E7EB;
     padding: 40px 0;
+}
+
+.cta-container button {
+    border: #F9FAF8 1px solid;
+    margin-top: -6px;
 }
