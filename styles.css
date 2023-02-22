@@ -143,10 +143,12 @@ button {
     font-size: 36px;
     color: #1f2937;
     line-height: 1.2em;
+    max-width: 1000px;
 }
 
 .author {
     font-size: 18px;
     align-self: flex-end;
     font-weight: 700;
+    padding-right: 50px;
 }
